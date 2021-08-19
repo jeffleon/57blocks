@@ -11,13 +11,13 @@ la aplicacion cuenta con dos microservicios con sus respectivas bases de datos y
 
 para correr el proyecto se debe correr el docker-compose
 
-* `docker-compose up --force-recreate -d`
+`docker-compose up --force-recreate -d`
 
 * la api corre en los puertos 8000 y 9000
 
 si se quiere bajar los contenedores
 
-* `docker-compose down`
+`docker-compose down`
 
 ### EndPoints
 
